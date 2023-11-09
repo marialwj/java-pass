@@ -1,5 +1,8 @@
 # Password Generator Starter Code
 
+
+## Description 
+
 This simple JavaScript application generates a random password based on user preferences for length and character types. It allows users to include their preference of certain uppercase and lowercase letters, special characters, and numbers.
 
 ## Usage
@@ -14,6 +17,18 @@ When the user clicks the "Generate Password" button, the application will prompt
   - Lowercase letters (a-z)
   - Special characters (!, @, #, $, %, etc.)
   - Numbers (0-9)
+
+## Screenshots
+
+![Alt text](<assets/Screenshot 2023-11-08 at 6.40.40 PM.png>)
+![Alt text](<assets/Screenshot 2023-11-08 at 6.40.48 PM.png>)
+![Alt text](<assets/Screenshot 2023-11-08 at 6.40.59 PM.png>)
+![Alt text](<assets/Screenshot 2023-11-08 at 6.41.07 PM.png>)
+
+
+## Link to Deployed Application
+
+https://marialwj.github.io/java-pass/Links to an external site.
 
 ### How it Works
 
